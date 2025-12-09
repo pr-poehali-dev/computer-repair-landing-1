@@ -46,8 +46,8 @@ const Index = () => {
             <Icon name="Computer" size={28} className="text-primary" />
             <span className="text-xl font-bold text-secondary">PC Repair</span>
           </div>
-          <a href="tel:+79999999999" className="text-primary hover:text-primary/80 transition-colors font-semibold">
-            +7 (999) 999-99-99
+          <a href="tel:+79649133998" className="text-primary hover:text-primary/80 transition-colors font-semibold">
+            +7-964-913-39-98
           </a>
         </div>
       </header>
@@ -149,8 +149,8 @@ const Index = () => {
                     </div>
                     <div>
                       <h3 className="font-bold text-lg mb-1 text-secondary">Телефон</h3>
-                      <a href="tel:+79999999999" className="text-primary hover:underline text-lg">
-                        +7 (999) 999-99-99
+                      <a href="tel:+79649133998" className="text-primary hover:underline text-lg">
+                        +7-964-913-39-98
                       </a>
                     </div>
                   </CardContent>

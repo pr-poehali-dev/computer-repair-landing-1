@@ -199,6 +199,23 @@ const Index = () => {
                 </Card>
               </div>
             </div>
+
+            <div className="mt-12 animate-fade-in">
+              <Card className="border-2 overflow-hidden">
+                <CardContent className="p-0">
+                  <div className="aspect-video w-full">
+                    <iframe 
+                      src="https://yandex.ru/map-widget/v1/?um=constructor%3A8b5e8c8f8f8e8f8f8f8f8f8f8f8f8f8f&amp;source=constructor"
+                      width="100%" 
+                      height="100%" 
+                      frameBorder="0"
+                      className="w-full h-full"
+                      title="Карта расположения"
+                    ></iframe>
+                  </div>
+                </CardContent>
+              </Card>
+            </div>
           </div>
         </div>
       </section>

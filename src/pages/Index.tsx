@@ -178,7 +178,8 @@ const Index = () => {
                     <div>
                       <h3 className="font-bold text-lg mb-1 text-secondary">Адрес</h3>
                       <p className="text-muted-foreground text-lg">
-                        г. Москва, ул. Примерная, д. 123
+                        п.Южный, ул. Изобильная, д.1<br />
+                        <span className="text-sm">(район фабрики дышащих окон)</span>
                       </p>
                     </div>
                   </CardContent>

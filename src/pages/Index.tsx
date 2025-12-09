@@ -61,7 +61,7 @@ const Index = () => {
         <div className="container mx-auto px-4 relative z-10">
           <div className="max-w-3xl mx-auto text-center animate-fade-in">
             <h1 className="text-4xl md:text-6xl font-extrabold mb-6 leading-tight">
-              Быстрый ремонт<br />компьютеров и ноутбуков
+              Ремонт компьютеров<br />и ноутбуков в п.Южном
             </h1>
             <p className="text-xl md:text-2xl mb-8 text-blue-50 font-medium">
               Профессиональная диагностика за 30 минут.<br />Срочный ремонт за 2-4 часа.

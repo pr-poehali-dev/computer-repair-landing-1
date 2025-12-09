@@ -163,8 +163,8 @@ const Index = () => {
                     </div>
                     <div>
                       <h3 className="font-bold text-lg mb-1 text-secondary">Email</h3>
-                      <a href="mailto:info@pcrepair.ru" className="text-primary hover:underline text-lg">
-                        info@pcrepair.ru
+                      <a href="mailto:kivoks@mail.ru" className="text-primary hover:underline text-lg">
+                        kivoks@mail.ru
                       </a>
                     </div>
                   </CardContent>

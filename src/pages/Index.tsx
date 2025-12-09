@@ -44,7 +44,7 @@ const Index = () => {
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
           <div className="flex items-center gap-2">
             <Icon name="Computer" size={28} className="text-primary" />
-            <span className="text-xl font-bold text-secondary">PC Repair</span>
+            <span className="text-xl font-bold text-secondary">Ремонт-23</span>
           </div>
           <a href="tel:+79649133998" className="text-primary hover:text-primary/80 transition-colors font-semibold">
             +7-964-913-39-98
@@ -205,7 +205,7 @@ const Index = () => {
       <footer className="bg-secondary text-white py-8">
         <div className="container mx-auto px-4 text-center">
           <p className="text-blue-100">
-            © 2024 PC Repair. Все права защищены.
+            © 2024 Ремонт-23. Все права защищены.
           </p>
         </div>
       </footer>
